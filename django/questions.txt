@@ -1,24 +1,44 @@
-By answering these questions:
+By answering these questions you'll learn:
 
 PYTHON OOP CONCEPTS
 
 1. Basic Class and Object
     Problem: Create a Car class with attribute like brand aand model. Then create an instance of this class.
+
 2. Class Method and Self
     Problem: Add a method to the Car class that displays the full name of the car (brand and model).
+
 3. Inheritance
     Problem: Create an Electric Car class that inherits from the car class and has an additional attribute (battery size).
+
 4. Encapsulation
     Problem: Modify the Car class to encapsulate the brand attribute, making it private, and provide a getter method  for it.
+
 5. Polymorphism
     Problem: Demonstrate polymorphism by defining a methos fuel_type in both Car and Electric Car classes, but with different behaviours. 
+
 6. Class Variables
     Problem: Add a class variable to Car that keeps the track of number of cars created.
+
 7. Static Method
     Problem: Add a static method to the Car class that returns a general description of a car.
+
 8. Property Decorators
     Problem: Use a Property Decorator in the Car class to  make the model attribute read-only.
+
 9. Class Inhertance and Isinstance() Functions
     Problem: Demonstrate the use of Isinstance() to check if my_tesla is an Isinstanceof Car and Electric Car.
+
 10. Multiple Inheritance
     Problem: Create two classes Battery and Engine, and let the Electric Car class inherit from both, demonstrating multiple inheritance.
+
+Decorators
+    
+1. Timing Function Execution
+    Problem 1: Write a Decorator that measures the time a function takes to execute.
+    
+2. Debugging Function Calls
+    Problem 2:         
+    
+3. Cache Return Values    
+    Problem 3:
