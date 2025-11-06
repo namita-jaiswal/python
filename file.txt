@@ -1,0 +1,5 @@
+R: Read files (by default files are opened in read mode)
+R+: Read and write
+W: Write files
+W+: Write and Read
+A: Append mode

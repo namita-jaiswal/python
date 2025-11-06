@@ -15,7 +15,7 @@ heading = "introduction to python"
 # print(name.count("a"))
 # print(name.endswith("a!"))
 # print(name.startswith("Nam"))
-print(heading.endswith("ti", 4 , 10)) #python checks substring heading[4:10] oducti(it ends with ti)
+# print(heading.endswith("ti", 4 , 10)) #python checks substring heading[4:10] oducti(it ends with ti)
 # print(heading.find("ion")) #tells the position where it is stored in the string
 # print(heading.find("lol")) #returns -1 cuz lol doesn't exist
 # print(heading.index("intro")) #throws an error if false
